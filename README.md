@@ -18,3 +18,7 @@
 A pretty basic and harmless virus* made in just 8 lines of actual code.
 
 *Not really a virus, more of just an oesterical thing, since viruses normally cause data loss, copy itself etc..
+
+https://github.com/Dismalitie/ByeByeBSOD/assets/118924562/cd7067b2-77f7-4657-922b-6ec4b5454a16
+
+That's what happens. Except instead of an error message there would be a BSOD.
