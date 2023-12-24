@@ -9,10 +9,10 @@
  A harmless, open-source BSOD inducing "virus"
 </div>
 
-> [!IMPORTANT]
+> [!WARNING]
 > I will not be responsible for any losses of data or loss of friends
 
-> [!WARNING]
+> [!CAUTION]
 > **DO NOT RUN BEFORE MAKING SURE YOU HAVE SAVED EVERYTHING. IT IS RECOMMENDED TO USE A VIRTUAL MACHINE**
 
 A pretty basic and harmless virus* made in just 8 lines of actual code.
