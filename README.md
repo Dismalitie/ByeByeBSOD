@@ -9,6 +9,12 @@
  A harmless, open-source BSOD inducing "virus"
 </div>
 
+> [!IMPORTANT]
+> I will not be responsible for any losses of data or loss of friends
+
+> [!WARNING]
+> **DO NOT RUN BEFORE MAKING SURE YOU HAVE SAVED EVERYTHING. IT IS RECOMMENDED TO USE A VIRTUAL MACHINE**
+
 A pretty basic and harmless virus* made in just 8 lines of actual code.
 
 *Not really a virus, more of just an oesterical thing, since viruses normally cause data loss, copy itself etc..
