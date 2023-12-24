@@ -1,0 +1,7 @@
+C:\Users\harry\source\repos\ByeBye\ByeBye\obj\Debug\ByeBye.csproj.AssemblyReference.cache
+C:\Users\harry\source\repos\ByeBye\ByeBye\obj\Debug\ByeBye.csproj.CoreCompileInputs.cache
+C:\Users\harry\source\repos\ByeBye\ByeBye\bin\Debug\ByeBye.exe.config
+C:\Users\harry\source\repos\ByeBye\ByeBye\bin\Debug\ByeBye.exe
+C:\Users\harry\source\repos\ByeBye\ByeBye\bin\Debug\ByeBye.pdb
+C:\Users\harry\source\repos\ByeBye\ByeBye\obj\Debug\ByeBye.exe
+C:\Users\harry\source\repos\ByeBye\ByeBye\obj\Debug\ByeBye.pdb
